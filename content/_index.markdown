@@ -14,6 +14,8 @@ Location: Singapore / Sydney, Australia
 
 ## Biography
 
+<img src="/IMG_1729.jpeg" style="max-width: 150px; float: right; margin: 0 0 15px 20px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.08);" alt="Donglai Luo" />
+
 I am a financial economist and quant researcher working at the intersection of Financial Economics, Market Design, and International Finance. 
 
 Currently, I am a Senior Associate at the Asia Pacific Exchange (APEX) in Singapore, where I focus on quantitative risk management for exchange-traded financial derivatives. I am also a Ph.D. Candidate in Economics at the University of Technology Sydney (UTS) Business School (expected graduation in H2 2026).
