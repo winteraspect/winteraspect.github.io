@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "冬来小站 If Winter"
+title: "Donglai Luo"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -14,24 +14,16 @@ permalinks:
 
 menu:
   main:
-    - name: Home
+    - name: Bio
       url: ""
       weight: 1
-    - name: About
-      url: "about/"
+    - name: Publications
+      url: "publications/"
       weight: 2
-    - name: Categories
-      url: "categories/"
-      weight: 3
-    - name: Tags
-      url: "tags/"
-      weight: 4
-    - name: Subscribe
-      url: "index.xml"
 
 params:
-  description: "Type less, think more."
-  footer: "Cool things happen in Winter. (email: smilingwinter(a)hotmail.com)."
+  description: "Donglai Luo - Financial Economist & Quant Researcher"
+  footer: "&copy; {Year} Donglai Luo. All rights reserved."
 
 markup:
   highlight:
@@ -39,3 +31,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+

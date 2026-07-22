@@ -1,6 +1,6 @@
 ---
 title: Replication of the Eisenberg-Noe Payment Equilibrium
-author: 'Winter'
+author: 'Donglai Luo'
 date: '2022-01-03'
 slug: replication-of-the-eisenberg-noe-payment-equilibrium
 categories: ['working paper', 'proof']

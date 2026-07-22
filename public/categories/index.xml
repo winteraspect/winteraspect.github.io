@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 冬来小站 If Winter</title>
+    <title>Categories on Donglai Luo</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on 冬来小站 If Winter</description>
+    <description>Recent content in Categories on Donglai Luo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>proof</title>
+      <link>/categories/proof/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>/categories/proof/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Example</title>
-      <link>/categories/example/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <title>working paper</title>
+      <link>/categories/working-paper/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>/categories/hugo/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/hugo/</guid>
+      <guid>/categories/working-paper/</guid>
       <description></description>
     </item>
     
