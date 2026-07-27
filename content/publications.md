@@ -6,7 +6,7 @@ title: "Publications"
 
 ---
 
-## Co-Authored Academic Publications
+## Publications
 
 1.  "Istanbul Flower Auction: The Need for Speed"  
     Co-authors: Isa Hafalir, Onur Kesten, Katerina Sherstyuk, and Cong Tao.  
