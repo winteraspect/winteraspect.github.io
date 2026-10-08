@@ -8,6 +8,7 @@ Senior Associate, Asia Pacific Exchange (APEX)
 Ph.D. in Economics, University of Technology Sydney (UTS)  
 
 Email: donglai.luo.winter (at) gmail (dot) com  
+GitHub: [github.com/winteraspect](https://github.com/winteraspect)  
 Location: Singapore / Sydney, Australia  
 
 ---
@@ -29,5 +30,14 @@ Prior to joining APEX, I worked as a Research Associate at the Lee Kuan Yew Scho
 *   Financial Economics
 *   Market Design
 *   International Finance
+
+---
+
+## Software & Code
+
+*   [**derivative**](https://github.com/winteraspect/derivative): Pricing and risk engine for OTC exotic commodity and crypto derivatives in Julia, with cross-language benchmarks (Julia, C++, Rust, Python).
+*   [**Climate**](https://github.com/winteraspect/Climate): Empirical analysis of climate anomalies (ENSO) and agricultural commodity market tail risks via quantile regression in R.
+
+More code and research repositories are available on [GitHub](https://github.com/winteraspect).
 
 
