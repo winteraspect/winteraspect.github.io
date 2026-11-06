@@ -7,7 +7,7 @@ title: "Bio"
 Asia Pacific Exchange (APEX)  
 Ph.D. in Economics, University of Technology Sydney (UTS)  
 
-Email: donglai.luo.winter (at) gmail (dot) com  
+Email: <span id="contact-email"><noscript><span style="unicode-bidi:bidi-override;direction:rtl;">ua.ude.stu.tneduts<span>&#64;</span>oul.ialgnod</span></noscript></span>  
 GitHub: [github.com/winteraspect](https://github.com/winteraspect)  
 Location: Singapore / Sydney, Australia  
 
@@ -39,5 +39,48 @@ Prior to joining APEX, I worked as a Research Associate at the Lee Kuan Yew Scho
 *   [**Climate**](https://github.com/winteraspect/Climate): Empirical analysis of climate anomalies (ENSO) and agricultural commodity market tail risks via quantile regression in R.
 
 More code and research repositories are available on [GitHub](https://github.com/winteraspect).
+
+<script>
+(function() {
+  var target = document.getElementById("contact-email");
+  if (!target) return;
+  var enc = [105, 116, 115, 108, 113, 102, 110, 51, 113, 122, 116, 69, 120, 121, 122, 105, 106, 115, 121, 51, 122, 121, 120, 51, 106, 105, 122, 51, 102, 122];
+  var email = enc.map(function(c) { return String.fromCharCode(c - 5); }).join("");
+  var parts = email.split("@");
+
+  var a = document.createElement("a");
+  a.innerHTML = parts[0] + "&#8203;@&#8203;" + parts[1];
+  a.href = "javascript:void(0)";
+  a.title = "Click to send email";
+  a.style.cursor = "pointer";
+
+  var activated = false;
+  function activate() {
+    if (!activated) {
+      a.href = "mai" + "lto:" + email;
+      activated = true;
+    }
+  }
+
+  a.addEventListener("pointerover", activate, { once: true });
+  a.addEventListener("mouseover", activate, { once: true });
+  a.addEventListener("focus", activate, { once: true });
+  a.addEventListener("touchstart", activate, { passive: true, once: true });
+  a.addEventListener("click", function(e) {
+    activate();
+    window.location.href = "mai" + "lto:" + email;
+  });
+
+  a.addEventListener("copy", function(e) {
+    if (e.clipboardData) {
+      e.clipboardData.setData("text/plain", email);
+      e.preventDefault();
+    }
+  });
+
+  target.innerHTML = "";
+  target.appendChild(a);
+})();
+</script>
 
 
